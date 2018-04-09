@@ -2,8 +2,6 @@
 \<Nome do Projeto\>
 ===================
 
-*[Observação: O template a seguir é fornecido para uso com o Rational Unified Process (RUP). O texto exibido entre colchetes e em itálico foi incluído para orientar o autor e deve ser excluído antes da publicação do documento. Qualquer parágrafo inserido após esse estilo deverá ser definido automaticamente como normal.]*
-
 Índice Analítico
 ----------------
 
@@ -17,14 +15,14 @@ Notas de release
 ------------------------------------
 
 ## 1. Introdução
-*[Deverá proporcionar uma abordagem inicial sobre as notas de release e qual o propósito deste.*]
+[_Deverá proporcionar uma abordagem inicial sobre as notas de release e qual o propósito deste._]
 
 ## 2. Relatório de mudança de versão
-*[Deverá ser completado com base na diferença entre a versão atual e a que será gerada.]*
+[_Deverá ser completado com base na diferença entre a versão atual e a que será gerada._]
 
 ### 2.1. Versões
-* Versão anterior: [Ex. V1.2.3](notas de release da versão requerida)
-* Nova versão: [Ex.V1.2.4] 
+* Versão anterior: [_Ex. V1.2.3_](notas de release da versão requerida)
+* Nova versão: [_Ex.V1.2.4_] 
 
 ### 2.2. Diferenças na nova versão
 
@@ -35,5 +33,5 @@ Notas de release
 |  Implantação |   [Sistema de frequência implantado]  |
 
 ## 3. Download
-* Versão anterior: [Link V1.2.3](link para download da versão)
-* Nova versão: [Link V1.2.4](link para download da versão)
+* Versão anterior: [_Link V1.2.3_](link para download da versão)
+* Nova versão: [_Link V1.2.4_](link para download da versão)

@@ -14,7 +14,7 @@ Documento de Monitoramento
 
 | ID da alteração | Data da alteração | Responsável pela solicitação | Resumo da alteração |
 |------|---------------------|---------------|------|
-| < ID > | < Data > | < Requisitor > | < Alteração realizada > |
+| [_ID_] | [_Data_] | [_Requisitor_] | [_Alteração realizada_] |
 
 ## 2. Relato do Monitoramento
 --------------

@@ -2,8 +2,6 @@
 \<Nome do Projeto\>
 ===================
 
-*[Observação: O template a seguir é fornecido para uso com o Rational Unified Process (RUP). O texto exibido entre colchetes e em itálico foi incluído para orientar o autor e deve ser excluído antes da publicação do documento. Qualquer parágrafo inserido após esse estilo deverá ser definido automaticamente como normal.]*
-
 Índice Analítico
 ----------------
 * 1. [Introdução](#1-introdução)

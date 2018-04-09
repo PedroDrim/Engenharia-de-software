@@ -19,19 +19,19 @@ Plano de Verificação e Validação
 
 ## 1. Objetivos
 
-O plano de verificação e validação visa prover um padrão mínimo de requisitos que seja escopo do processo de verificação e validação.
+[_O plano de verificação e validação visa prover um padrão mínimo de requisitos que seja escopo do processo de verificação e validação._]
 
 ## 2. Definições, acrônimos e abreviações
-*[Descrição dos termos, acrônimos e abreviações necessárias para a interpretação do Plano de verificação e validação]*
+[_Descrição dos termos, acrônimos e abreviações necessárias para a interpretação do Plano de verificação e validação_]
 
 ## 3. Referências
-*[Lista de documentos citadas no Plano de verificação e validação, assim como suas respectivas fontes no qual poderão ser obtida o conteúdo de tais documentos]*
+[_Lista de documentos citadas no Plano de verificação e validação, assim como suas respectivas fontes no qual poderão ser obtida o conteúdo de tais documentos_]
 
 ## 4. Artefatos sob processo de verificação e validação
 
-| Artefatos |
+| [_Artefatos_] |
 |-----------|
-| Lista de Artefatos que passarão por V&V |
+| [_Lista de Artefatos que passarão por V&V_] |
 
 ## 5. Requisitos a testar 
 * Teste Funcional
@@ -43,7 +43,7 @@ O plano de verificação e validação visa prover um padrão mínimo de requisi
 	*	Verificar se o tempo de resposta da aplicação é aceitável
 
 ## 6. Estratégias de verificação e validação
-### 6.1 *[Nome do método de verificação/validação]*
+### 6.1 [_Nome do método de verificação/validação_]
 
 | Objetivo do método      |            Revisão por pares          | 
 |-------------------------|------------------------------------------------------------------------|
@@ -60,12 +60,12 @@ O plano de verificação e validação visa prover um padrão mínimo de requisi
 | Procedimento            |         *[Descrição de como o método será executado]*                  | 
 | Ferramentas necessárias | *[Descrição das ferramentas necessárias para a técnica ser utilizada]* |
 | Critérios de Êxito:     | *[Descrever quais os critérios utilizados para identificar que o método teve êxito]* |
-| Considerações Especiais: | *[Descrever considerações especiais como recursos de ambiente especiais para este métodos utilizado]* |
-| Tempo                   | *[Descrever quando (período) em que o método será realizado]*          |
+| Considerações Especiais: | *[Descrever considerações especiais como recursos de ambiente especiais para este métodos utilizado_] |
+| Tempo                   | [_Descrever quando (período) em que o método será realizado_]          |
 
 
 ## 7. Ferramentas
-*[Descrição das ferramentas utilizadas nas atividades de verificação/validação]*
+[_Descrição das ferramentas utilizadas nas atividades de verificação/validação_]
 
 ## 8. Materiais de Apoio
-*[Descrever detalhadamente quais os Materiais serão usados como apoio para a execução de cada método]*
+[_Descrever detalhadamente quais os Materiais serão usados como apoio para a execução de cada método_]

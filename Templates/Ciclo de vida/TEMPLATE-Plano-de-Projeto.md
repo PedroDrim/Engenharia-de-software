@@ -1,4 +1,4 @@
-DroidMetronome
+\<Nome do Projeto\>
 =================================
 <!--Os documentos Termo de Abertura e Documento de Visão foram resumidos neste único documento, visando eliminar a quantidade de documentação do Scrum-->
 
@@ -24,40 +24,40 @@ DroidMetronome
     * 8.7. [Planejamento da Comunicação](#87-planejamento-da-comunicação)
     * 8.8. [Equipe, Responsabilidades e Partes Interessadas](#88-equipe-responsabilidades-e-partes-interessadas)
 
-1. Justificativas e Objetivos
+## 1. Justificativas e Objetivos
 -----------------------------
 [_Identificar e descrever quais foram os motivos que levaram este projeto a ser escolhido e definido como viável e quais os objetivos a serem alcançados com ele._]
 
-2. Alinhamento Estratégico
+## 2. Alinhamento Estratégico
 -----------------------------
 [_Descrever estratégia organizacional realizada na escolha do produto a ser desenvolvido durante o projeto._]
 
-3. Identificação do Projeto
+## 3. Identificação do Projeto
 -----------------------------
 [_Descrição breve do produto que será desenvolvido._]
 
-4. Perfil dos Utilizadores e Mercado
+## 4. Perfil dos Utilizadores e Mercado
 -----------------------------
 [_Descrição da perspectiva dos utilizadores do sistema. Aqui devem estar incluídos todos os elementos que vão interagir com o sistema. Indicar quais as razões do mercado que levaram à decisão da implementação do novo produto. Deve ser dada especial atenção ao porquê de surgir este produto. Descrever em perspectiva cada um dos intervenientes no sistema._]
 
-5. Necessidades, Ambiente de trabalho, formas de coleta e armazenamento dos dados
+## 5. Necessidades, Ambiente de trabalho, formas de coleta e armazenamento dos dados
 -----------------------------
 [_Descrever qual o ambiente de trabalho de cada um dos utilizadores, indicando qual as ferramentas e ambientes utilizados, especificando modelos de uso. Deve realçar o ambiente atual existente, bem como as aplicações utilizadas. Abordar quais as necessidades ou problemas apontados pelos utilizadores do sistema. Deve ser detalhado o que levou à detecção de que o produto atual não é satisfatório ou a motivação subjacente ao desenvolvimento de um novo produto._]
 
-6. Escopo do Produto
+## 6. Escopo do Produto
 -----------------------------
 
-## 6.1 Casos de Uso Iniciais
+### 6.1 Casos de Uso Iniciais
 [_Diagrama UML com os casos de uso iniciais do projeto, visando esclarecer as funcionalidades principais._]
 
 ### 6.2 Sumário das Capacidades
 [_Descrição das capacidades principais ressaltadas no caso de uso._]
 
-7. Não-Escopo
+## 7. Não-Escopo
 -----------------------------
 [_Esclarecer quais funcionalidade não estão dentro o objetivo deste projeto e não serão realizadas por estão fora do escopo._]
 
-8. Escopo do Projeto
+## 8. Escopo do Projeto
 -----------------------------
 
 ### 8.1 Premissas

@@ -2,8 +2,6 @@
 \<Nome do Projeto\>
 ===================
 
-*[Observação: O template a seguir é adaptado a partir das normas ISO 15504 e ISO 12207, para uso dentro do processo de software da DroidFoundry. Todo texto escrito na seção 1 do documento inclusive o exibido entre colchetes e em itálico durante toda a extensão do documento foi incluído para orientar o autor e não deve ser usado na estruturação da Issue. Os tópicos existentes na seção 2 deverão ser utilizados da forma que melhor se adeque a solicitação de mudança.]*
-
 Índice Analítico
 ----------------
 
@@ -19,21 +17,25 @@ Documento de Viabilidade e Riscos
 
 ## 1. Introdução
 
-*[Uma análise de viabilidade e riscos oferece uma visão geral de um problema/melhoria reportada por meio de issues do GitHub. Ela inclui a forma utilizada na avaliação bem como as técnicas e etapas utilizadas para a sua correção. A análise de vialibilidade e riscos é elaborada em um comentário na mesma* *issue* *de solicitação de mudança.]*
+[_Uma análise de viabilidade e riscos oferece uma visão geral de um problema/melhoria reportada por meio de issues do GitHub. Ela inclui a forma utilizada na avaliação bem como as técnicas e etapas utilizadas para a sua correção._
+
+_A análise de vialibilidade e riscos é elaborada em um comentário na mesma* *issue* *de solicitação de mudança._]
 
 ## 2. Análise de viabilidade e riscos
 
-*[A classificação de viabilidade verifica a viabilidade de uma mudança com base em atributos previamente estabelecidos, cada atributo possui um critério de avaliação que é utilizado para a adequação, o valor estipulado para a realização da mudança definido no [waffle.io](http://waffle.io/gabrielaimeeg/DroidMetronome) (parâmetro "Size") é obtido com uma métrica aonde no final o ****produto**** entre os atributos será definido como ***viável***, ***parcialmente viável***, ***Dificilmente viável*** e ***inviável***.]*
+[_Exemplo:_
+
+_A classificação de viabilidade verifica a viabilidade de uma mudança com base em atributos previamente estabelecidos, cada atributo possui um critério de avaliação que é utilizado para a adequação, o valor estipulado para a realização da mudança definido no [waffle.io](http://waffle.io/gabrielaimeeg/DroidMetronome) (parâmetro "Size") é obtido com uma métrica aonde no final o **produto** entre os atributos será definido como **viável**, **parcialmente viável**, **Dificilmente viável** e **inviável**._]
 
 ### 2.1. Análise para código fonte
 
 #### Atributo 1: Áreas do produto afetadas
 
-*[OBS.: Não será necessário realizar o resto da análise de viabilidade caso a mudança requerida seja classificada como OPCIONAL pois ela já será considerada ****VIÁVEL****.]*
+[_OBS.: Não será necessário realizar o resto da análise de viabilidade caso a mudança requerida seja classificada como OPCIONAL pois ela já será considerada **VIÁVEL**._]
 
 | Atributo quanto ao risco no produto | Definição | Valor |
 |-------------------------------------|-----------|-------|
-| Mudança em funções **essenciais**   | Componente de software cuja existência é de vital importância para o produto | 3 |
+| Mudança em funções **essenciais** | Componente de software cuja existência é de vital importância para o produto | 3 |
 | Mudança em funções **secundárias**  | Componente cuja existência é importante para o produto porém a sua falta não afeta a qualidade do sistema | 2 |
 | Mudança em funções **opcionais**    | Uma modificação que afeta áreas triviais no produto | 2 |
 
@@ -139,20 +141,20 @@ A classificação final é dada pelo produto dos resultados obtidos nos atributo
 
 ### 2.3. Análise para questões de projeto
 
-*[Esta análise será feita para assuntos recorrentes ao projeto, entretanto que não possuam ligações diretas com artefatos produzidos no processo e/ou produto. Como por exemplo a entrada ou saída de um membro na equipe.]*
+[_Esta análise será feita para assuntos recorrentes ao projeto, entretanto que não possuam ligações diretas com artefatos produzidos no processo e/ou produto. Como por exemplo a entrada ou saída de um membro na equipe._
 
-*[Será feita uma breve análise informal a respeito das áreas e artefatos que serão afetados. Em seguida essa análise será descrita juntamente com o tópico "Descrição da manutenção" presente na seção 3 "Análise de impacto".]*
+_Será feita uma breve análise informal a respeito das áreas e artefatos que serão afetados. Em seguida essa análise será descrita juntamente com o tópico "Descrição da manutenção" presente na seção 3 "Análise de impacto"._]
 
 ## 3. Análise de impacto
 
 ### Descrição da manutenção:
 
-*[Mudanças que deverão ser realizadas para solucionar a mudança solicitada.]*
+[_Mudanças que deverão ser realizadas para solucionar a mudança solicitada.]_
 
 ### Áreas modificadas:
 
-*[Áreas que serão afetadas diretamente pela mudança.]*
+[_Áreas que serão afetadas diretamente pela mudança._]
 
 ### Outras áreas afetadas:
 
-*[Áreas que fazem referência as áreas modificadas.]*  
+[_Áreas que fazem referência as áreas modificadas._]

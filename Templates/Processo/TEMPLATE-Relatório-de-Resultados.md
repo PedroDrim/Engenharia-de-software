@@ -1,8 +1,6 @@
-<!--- O título da página deve ser no seguinte formato:
-
-Relatório de Resultados ([nome do artefato])
--->
-
+<!--- O título da página deve ser no seguinte formato: Relatório de Resultados ([nome do artefato])-->
+\<Nome do Projeto\>
+===================
 Índice Analítico
 ----------------
 
@@ -15,19 +13,19 @@ Relatório de Resultados ([*nome do artefato*])
 
 ##1. Stakeholders destinados
 
-*[ Aqui deve ser definido a lista de interessados. ]*
+[ _Aqui deve ser definido a lista de interessados._ ]
 
 | Nome | Função |
 |------|--------|
-| *[Fulano]* | *[X]*|
-| *[Ciclano]* | *[Y]*|
+| [_Fulano_] | [_X_] |
+| [_Ciclano_] | [_Y_] |
 
 ##2. Resultados Detalhados de Artefatos
 
 | Procedimentos | Resultado | Comentário |
-|-------------|-----------|------------|
-|*[O procedimento definido no Documento de Procedimentos*]|*[Aprovado/Reprovado]*|*[Considerações referentes à aprovação/reprovação do procedimento.]*
+|---------------|-----------|------------|
+| [_O procedimento definido no Documento de Procedimentos_ ] | [_Aprovado/Reprovado_] | [_Considerações referentes à aprovação/reprovação do procedimento._]
 
 ## 3. Comentários adicionais
 
-*[ Comentários adicionais do gerente de verificação e validação ]*
+[_Comentários adicionais do gerente de verificação e validação_]
